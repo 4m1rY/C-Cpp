@@ -1,0 +1,1 @@
+int convert(bool parH, bool parR, bool parN, bool parQ, char paramCSVFileName[], char paramHTMLFileName[], char paramBG[][50], char paramFG[][50]);
